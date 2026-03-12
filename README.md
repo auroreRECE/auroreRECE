@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @auroreRECE
 - 👀 I’m interested in marine ecology and fisheries management. 
-- 📫 I am currently a postdoc sutdent at the CESAB - FRB in Montpellier, France
+- 📫 I am currently permanent researcher at IRD, Sete, France
 
 <!---
 auroreRECE/auroreRECE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
